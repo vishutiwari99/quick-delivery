@@ -10,7 +10,9 @@ const Register = () => {
       <div className="flex items-center justify-center py-12 px-8">
         <div className="mx-auto grid w-full gap-6">
           <div className="grid gap-2 ">
-            <h1 className="text-2xl font-extrabold">Let's get you Login !</h1>
+            <h1 className="text-2xl font-extrabold">
+              {"Let's get you Login !"}
+            </h1>
             <p className="text-muted-foreground">
               Enter your information below
             </p>
